@@ -37,8 +37,8 @@ function updateMoney() {
     console.log(player2);
 }
 
-var player1 = new player("sai", 0, 1000);
-var player2 = new player("kumar", 0, 1000);
+var player1 = new player("cherry", 0, 1000);
+var player2 = new player("charith", 0, 1000);
 player1_Button.addEventListener('click', function () {
     player1_rollDice();
 }, false);
